@@ -1,2 +1,2 @@
-# Project1
-Sample project for data analysis
+# Project
+Analysis on sample superstore dataset
